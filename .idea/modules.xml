@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/VitaLink.iml" filepath="$PROJECT_DIR$/VitaLink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VitaLinkFrontEnd.iml" filepath="$PROJECT_DIR$/VitaLinkFrontEnd.iml" />
     </modules>
   </component>
 </project>
