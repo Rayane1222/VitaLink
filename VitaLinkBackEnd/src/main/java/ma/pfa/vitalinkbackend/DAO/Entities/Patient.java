@@ -3,7 +3,7 @@ package ma.pfa.vitalinkbackend.DAO.Entities;
 import jakarta.persistence.*;
 import lombok.*;
 
-import java.time.LocalDateTime;
+import java.time.YearMonth;
 
 @Entity
 @Data
@@ -20,7 +20,7 @@ public class Patient {
     private String city;
     private String medical_condition;
     private Boolean gender;
-    private LocalDateTime dateOfBirth;
+    private String dateOfBirth;
     private String address;
 
     @Lob
