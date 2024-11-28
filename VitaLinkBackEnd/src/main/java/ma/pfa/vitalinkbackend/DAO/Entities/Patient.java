@@ -19,7 +19,7 @@ public class Patient {
     private String phone;
     private String city;
     private String medical_condition;
-    private Boolean gender;
+    private String gender;
     private String dateOfBirth;
     private String address;
 
